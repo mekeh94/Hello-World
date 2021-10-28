@@ -2,6 +2,5 @@
 
 i'm human
 
-mekeh here, i like python.
-i like coding and wish to learn more of it.
-i've always thought of coding in my life
+mekeh94 here, i like node.js and coffescript (that what i'm made of).
+i've tacos on the moon and find them far superior to earth tacos
